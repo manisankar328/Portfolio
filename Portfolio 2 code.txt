@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+    img{
+        width: 250px;
+        height: 250px;
+        float: left;
+        margin-left: 120px;
+        display: flex;
+        padding-top: 75px;
+
+       
+    }
+    input{
+        border-radius: 30px;
+        width: 100px;
+        height: 40px;
+        background-color: brown;
+        color: white;
+       margin-left: 350px;
+       margin-top: 5px;
+       
+    }
+
+</style>
+
+    <title>title</title>
+</head>
+<body>
+    <div style="width: 100% ; height: 130px; background-color: gray; "></div>
+    <img src="https://th.bing.com/th/id/R.6b0022312d41080436c52da571d5c697?rik=ejx13G9ZroRrcg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fuser-png-icon-young-user-icon-2400.png&ehk=NNF6zZUBr0n5i%2fx0Bh3AMRDRDrzslPXB0ANabkkPyv0%3d&risl=&pid=ImgRaw&r=0">
+
+<h1 style="padding-top: 75px;"> About me</h1>
+<h2>F U L L S T A C k </h2>
+<h2> D e v e l o p e r</h2>  
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia ab maiores unde reprehenderit, earum reiciendis in voluptate aliquid deserunt quaerat architecto fuga nihil distinctio sapiente sed est natus. Quaerat, deserunt!
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae delectus accusamus placeat omnis maiores possimus labore necessitatibus in. Dicta cupiditate esse tenetur reiciendis rem asperiores ex a nesciunt nulla voluptatem.
+    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam possimus vero voluptatibus hic deleniti quae magnam dolor impedit minus assumenda in cum recusandae quas, sunt perferendis quibusdam eaque, modi enim.
+</p>
+<input type="button"  value="Let's Chat">         
+</body>
+</html> 
